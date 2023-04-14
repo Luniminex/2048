@@ -6,3 +6,6 @@ Use the arrow keys on keyboard to move the blocks to the sides and combine them.
 
 ## Compilation
 You'll need to either compile it yourself or use the premade Makefile.
+
+## Example
+![My Image](img/2048.png)
